@@ -1,0 +1,9 @@
+{
+  "name": "Worklist Management",
+  "short_name": "Worklist",
+  "start_url": "/tasks",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#D32F2F",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
